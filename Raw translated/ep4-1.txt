@@ -24,7 +24,7 @@
 は、はい……！ = U-understood...!
 では、いきます……！ = Well then, here I go...!
 <i>バシャバシャバシャ</i> = <i>*splash-splash-splash*</i>
-//missing line
+はあっ、はあっ……うう、やっぱり5メートルしか泳げません。<br>ぜんぜん前に進まない……
 ちゃんとバタ足してるつもりなのに……足が途中でプールの底についちゃいます。 = I meant to go for a flutter kick...but before I knew it, my feet touches the floor.
 ビート板を使ってるから、普通よりも浮きやすいはずなのに、どうして…… = I should be more buoyant since I'm using a kickboard so why...?
 きっと足の力が足りないんです……次はもっと勢いよく……！ = I'm sure my legs are just lacking in power... Next time, I'll do it harder...!
@@ -41,8 +41,8 @@
 もうひとつ大切なのは、リズムだよ。 = Another important thing is the rhythm.
 私の声に合わせて。いち、に、いち、に……。 = Together with my voice now. One, two, one, two...
 いち、に、いち、に…… = One, two, one, two...
-//missing line
+あっ……5メートルを超えました！ 私、ちゃんと泳げてます……！
 おめでとう。その調子だよ。 = Well done. Keep it up.
 バタ足と一緒に、息継ぎの練習もしようか？ = While we're at it, should we also practice the breathing techniques?
 はい……！<br>私、もっと先生に教えてもらいたいです……！ = Gladly...! <br>I want to learn more from you...!
-//missing line
+あっ……5メートルを超えました！ 私、ちゃんと泳げてます……！
