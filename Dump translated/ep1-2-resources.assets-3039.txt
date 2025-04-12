@@ -4719,7 +4719,7 @@
          0 int size = 1
          [0]
           0 NullableString data
-           1 string value = "Trinity School Gate"
+           1 string value = "Trinity, School Gate"
            1 UInt8 hasValue = 1
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
@@ -9934,7 +9934,7 @@
        0 int lineIndex = 54
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "As a representative of the Justice Task Force, Hasumi-senpai is tasked to attend a meeting for a secret mission..."
+       1 string value = "As a representative of the Justice Task Force, Hasumi-senpai is tasked to attend a meeting for a top-secret mission..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -16433,7 +16433,7 @@
        0 int lineIndex = 100
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "T-there you have it... <br>With the absence of our Senpais, they're a little too high-strung..."
+       1 string value = "T-there you have it... <br>With the absence of our seniors, they're a little too high-strung..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -17849,7 +17849,7 @@
        0 int lineIndex = 114
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Sensei, what should I do in this situation...?"
+       1 string value = "Sensei, what shoud I do in this situation...?"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -26665,7 +26665,7 @@
        0 int lineIndex = 196
        0 int inlineIndex = 0
       0 StringParameter ChoiceSummary
-       1 string value = "Please listen to her words until the end."
+       1 string value = "Please listen to words until then end."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -29659,7 +29659,7 @@
        0 int lineIndex = 224
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "U-umm. If the other party is actually a swindler, there's no need for it to be a secret mission in the first place."
+       1 string value = "U-umm. If the other party is actually a swindler, there's no need for it to be a top-secret mission in the first place."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -29814,7 +29814,7 @@
        0 int lineIndex = 225
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "If they are actually suspicious, our Senpais should have seen them through long before."
+       1 string value = "If they are actually suspicious, our seniors should have seen them through long before."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot

@@ -6751,7 +6751,7 @@
          0 int size = 1
          [0]
           0 NullableString data
-           1 string value = "Trinity Ground"
+           1 string value = "Trinity, School Ground"
            1 UInt8 hasValue = 1
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
@@ -9273,7 +9273,7 @@
        0 int lineIndex = 30
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I never did it before so..."
+       1 string value = "This is my first time doing it so..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -13122,7 +13122,7 @@
        0 int lineIndex = 70
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Wow... Feels like I became taller. <br>I can see far away now!"
+       1 string value = "Wow... It feels like I became taller. <br>I can see far away now!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -15162,7 +15162,7 @@
        0 int lineIndex = 90
        0 int inlineIndex = 0
       0 StringParameter ChoiceSummary
-       1 string value = "(It is actually kinda rough due to insufficient exercise though)"
+       1 string value = "(It is actually kinda rough though due to insufficient exercise)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -18806,7 +18806,7 @@
        0 int lineIndex = 127
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "T-the balance...kya...!"
+       1 string value = "M-my balance...kya...!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -23080,7 +23080,7 @@
        0 int lineIndex = 178
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Similar to the three-legged race, I only ever cause trouble for you since I always fall down..."
+       1 string value = "Similar to the three-legged race, I only ever cause trouble for you since I always fall..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -34437,7 +34437,7 @@
        0 int lineIndex = 288
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Now that I think of it, be it three-legged racing or group gymnastics, I never once got hurt... No matter how many times I fall, you're always there to help and protect me...."
+       1 string value = "Now that I think of it, be it three-legged racing or group gymnastics, I never once got hurt... <br>No matter how many times I fall, you're always there to help and protect me...."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -37159,7 +37159,7 @@
        0 int lineIndex = 316
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(My feet are shaking... my  balance won't hold for long...)"
+       1 string value = "(My feet are shaking... My balance won't hold for long...)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -37421,7 +37421,7 @@
        0 int lineIndex = 320
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(Thinking what if I fall... makes me deathly scared...)"
+       1 string value = "(Thinking what would happen if I fall... makes me deathly scared...)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -37576,7 +37576,7 @@
        0 int lineIndex = 322
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(But... since Sensei is here with me... I can do this...!)"
+       1 string value = "(But... Since Sensei is here with me... I can do this...!)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -43420,7 +43420,7 @@
        0 int lineIndex = 376
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(I see... this is what they call trust... the ability to believe on your partner...)"
+       1 string value = "(I see... This is what they call trust... The ability to believe on your partner...)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -44419,7 +44419,7 @@
        0 int lineIndex = 383
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(I did not want to trouble them... which actually means that I did not trust them...)"
+       1 string value = "(I did not want to trouble them... Which actually means that I did not trust them...)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -45043,7 +45043,7 @@
        0 int lineIndex = 389
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "<i>*wobbly* *wobbly*</i>"
+       1 string value = "<i>*wobble* *wobble*</i>"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
