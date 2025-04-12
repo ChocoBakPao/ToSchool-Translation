@@ -7,26 +7,27 @@
 たまたま通りかかっただけだよ。 = I just happen to pass by.
 なにか困っていることがあるんじゃないかな？ = Are you perhaps in need of assistance?
 ……先生は、なんでもお見通しなんですね。 = ...Sensei, I can't hide anything from you, huh?
-私がプールに来たのは……泳ぎが苦手だからなんです。<br>いざというときのために、練習しておきたくて…… = I came to the pool... because I'm bad at swimming. <br>I wanted to practice  should the necessity arise...
-でも……いくら練習しても、ぜんぜん上達しないから……。もう、諦めようかなって…… = However... No matter how hard I practice, I don't improve at all... might as well just give up altogether.
+私がプールに来たのは……泳ぎが苦手だからなんです。<br>いざというときのために、練習しておきたくて…… = I came to the pool... because I'm bad at swimming. <br>I wanted to practice swimming in case of an emergency...
+でも……いくら練習しても、ぜんぜん上達しないから……。もう、諦めようかなって…… = However... No matter how hard I practice, I'm not improving at all... I might as well just give up altogether.
 諦めるにはまだ早いよ。 = It's too early to give up, you know?
 私が泳ぎを教えてもいいかな？ = Should I teach you how to swim?
 え……？ 先生、泳ぎが得意なんですか？ = Eh...? Are you good at swimming?
 泳ぎが得意というわけじゃないかな。 = I'm not particularly good at swimming, I guess.
 でも、一人より二人で練習するほうが効果が出るよ。 = But, practicing together is definitely better than doing it alone.
-そう……なんですか？  = Is... that true?
+そう……なんですか？  = Is... that so?
 よくわかりませんけど……じゃあ先生、よろしくお願いします！ = I don't really understand but... Sensei, let's go about it together!
 き、着替えてきました…… = I, I changed my clothes...
 （水着姿……先生に見られるの……は、恥ずかしいっ……） = (My swimsuit attire... is being seen by Sensei... h-how embarassing...)
-（で、でも……せっかく先生が練習につき合ってくれるんだから……！） = (B-but..., since I'm gonna practice together with Sensei...!)
+（で、でも……せっかく先生が練習につき合ってくれるんだから……！） = (B-but... I'm gonna practice together with Sensei...!)
 まずは準備運動をしよう。 = First, let's do our warm-up exercise.
 それが終わったら、泳ぎを見せてくれるかな？ = Once that's done, can you show me how you swim?
 は、はい……！ = U-understood...!
 では、いきます……！ = Well then, here I go...!
 <i>バシャバシャバシャ</i> = <i>*splash-splash-splash*</i>
-ちゃんとバタ足してるつもりなのに……足が途中でプールの底についちゃいます。 = I meant to go for a flutter kick but... before I knew it, my feet touches the floor.
-ビート板を使ってるから、普通よりも浮きやすいはずなのに、どうして…… = I'm using the kickboard so I should be more buoyant so why...
-きっと足の力が足りないんです……次はもっと勢いよく……！ = I'm sure by legs are just lacking in power... next time, I'll do it harder...!
+はあっ、はあっ……うう、やっぱり5メートルしか泳げません。<br>ぜんぜん前に進まない……
+ちゃんとバタ足してるつもりなのに……足が途中でプールの底についちゃいます。 = I meant to go for a flutter kick...but before I knew it, my feet touches the floor.
+ビート板を使ってるから、普通よりも浮きやすいはずなのに、どうして…… = I should be more buoyant since I'm using a kickboard so why...?
+きっと足の力が足りないんです……次はもっと勢いよく……！ = I'm sure my legs are just lacking in power... Next time, I'll do it harder...!
 ううん、逆じゃないかな。 = I think you have it backwards.
 力が入りすぎてるんだ。 = You're applying too much power.
 え……？ 足に力が入りすぎると、前に進まない……？ そ、そうなんですか？ = Eh...? If I use too much power, I won't go forward...? I-is that so?
@@ -38,8 +39,10 @@
 <i>バシャバシャバシャ</i> = <i>*splash-splash-splash*</i>
 ほんとだ……力を抜いたほうが、バタ足しやすいです！ = So it's true... relaxing makes flutter kicking easier! 
 もうひとつ大切なのは、リズムだよ。 = Another important thing is the rhythm.
-私の声に合わせて。いち、に、いち、に……。 = Together with by voice now. One, two, one, two...
+私の声に合わせて。いち、に、いち、に……。 = Together with my voice now. One, two, one, two...
 いち、に、いち、に…… = One, two, one, two...
+あっ……5メートルを超えました！ 私、ちゃんと泳げてます……！
 おめでとう。その調子だよ。 = Well done. Keep it up.
 バタ足と一緒に、息継ぎの練習もしようか？ = While we're at it, should we also practice the breathing techniques?
 はい……！<br>私、もっと先生に教えてもらいたいです……！ = Gladly...! <br>I want to learn more from you...!
+（その後、手を引きながらだったけど、彼女はちゃんと25メートルを泳げるようになった）
