@@ -1,0 +1,2360 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 804
+ 1 string m_Name = "ep0"
+ 0 managedReference lines
+  1 Array Array (20 items)
+   0 int size = 20
+   [0]
+    0 managedReference data
+     0 SInt64 rid = 1000
+   [1]
+    0 managedReference data
+     0 SInt64 rid = 1001
+   [2]
+    0 managedReference data
+     0 SInt64 rid = 1002
+   [3]
+    0 managedReference data
+     0 SInt64 rid = 1003
+   [4]
+    0 managedReference data
+     0 SInt64 rid = 1004
+   [5]
+    0 managedReference data
+     0 SInt64 rid = 1005
+   [6]
+    0 managedReference data
+     0 SInt64 rid = 1006
+   [7]
+    0 managedReference data
+     0 SInt64 rid = 1007
+   [8]
+    0 managedReference data
+     0 SInt64 rid = 1008
+   [9]
+    0 managedReference data
+     0 SInt64 rid = 1009
+   [10]
+    0 managedReference data
+     0 SInt64 rid = 1010
+   [11]
+    0 managedReference data
+     0 SInt64 rid = 1011
+   [12]
+    0 managedReference data
+     0 SInt64 rid = 1012
+   [13]
+    0 managedReference data
+     0 SInt64 rid = 1013
+   [14]
+    0 managedReference data
+     0 SInt64 rid = 1014
+   [15]
+    0 managedReference data
+     0 SInt64 rid = 1015
+   [16]
+    0 managedReference data
+     0 SInt64 rid = 1016
+   [17]
+    0 managedReference data
+     0 SInt64 rid = 1017
+   [18]
+    0 managedReference data
+     0 SInt64 rid = 1018
+   [19]
+    0 managedReference data
+     0 SInt64 rid = 1019
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 35
+    0 ReferencedObject data
+     0 SInt64 rid = 1000
+     0 ReferencedManagedType type
+      1 string class = "LabelScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 0
+      1 string lineHash = "8714fd99"
+      1 string labelText = "Start"
+    0 ReferencedObject data
+     0 SInt64 rid = 1001
+     0 ReferencedManagedType type
+      1 string class = "EmptyScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 1
+      1 string lineHash = ""
+    0 ReferencedObject data
+     0 SInt64 rid = 1002
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 2
+      1 string lineHash = "96edf03"
+      0 managedReference command
+       0 SInt64 rid = 1020
+    0 ReferencedObject data
+     0 SInt64 rid = 1003
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 3
+      1 string lineHash = "77538af0"
+      0 managedReference command
+       0 SInt64 rid = 1021
+    0 ReferencedObject data
+     0 SInt64 rid = 1004
+     0 ReferencedManagedType type
+      1 string class = "EmptyScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 4
+      1 string lineHash = ""
+    0 ReferencedObject data
+     0 SInt64 rid = 1005
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 5
+      1 string lineHash = "319993fe"
+      0 managedReference command
+       0 SInt64 rid = 1022
+    0 ReferencedObject data
+     0 SInt64 rid = 1006
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 6
+      1 string lineHash = "f3ff0d9b"
+      0 managedReference command
+       0 SInt64 rid = 1023
+    0 ReferencedObject data
+     0 SInt64 rid = 1007
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 7
+      1 string lineHash = "76aebf89"
+      0 managedReference command
+       0 SInt64 rid = 1024
+    0 ReferencedObject data
+     0 SInt64 rid = 1008
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 8
+      1 string lineHash = "3b08751b"
+      0 managedReference command
+       0 SInt64 rid = 1025
+    0 ReferencedObject data
+     0 SInt64 rid = 1009
+     0 ReferencedManagedType type
+      1 string class = "EmptyScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 9
+      1 string lineHash = ""
+    0 ReferencedObject data
+     0 SInt64 rid = 1010
+     0 ReferencedManagedType type
+      1 string class = "LabelScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 10
+      1 string lineHash = "760bee40"
+      1 string labelText = "End"
+    0 ReferencedObject data
+     0 SInt64 rid = 1011
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 11
+      1 string lineHash = "10954154"
+      0 managedReference command
+       0 SInt64 rid = 1026
+    0 ReferencedObject data
+     0 SInt64 rid = 1012
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 12
+      1 string lineHash = "b76bac3f"
+      0 managedReference command
+       0 SInt64 rid = 1027
+    0 ReferencedObject data
+     0 SInt64 rid = 1013
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 13
+      1 string lineHash = "524e0911"
+      0 managedReference command
+       0 SInt64 rid = 1028
+    0 ReferencedObject data
+     0 SInt64 rid = 1014
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 14
+      1 string lineHash = "2def2712"
+      0 managedReference command
+       0 SInt64 rid = 1029
+    0 ReferencedObject data
+     0 SInt64 rid = 1015
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 15
+      1 string lineHash = "1597afa8"
+      0 managedReference command
+       0 SInt64 rid = 1030
+    0 ReferencedObject data
+     0 SInt64 rid = 1016
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 16
+      1 string lineHash = "64067e63"
+      0 managedReference command
+       0 SInt64 rid = 1031
+    0 ReferencedObject data
+     0 SInt64 rid = 1017
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 17
+      1 string lineHash = "4f8616f9"
+      0 managedReference command
+       0 SInt64 rid = 1032
+    0 ReferencedObject data
+     0 SInt64 rid = 1018
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 18
+      1 string lineHash = "6d317b6b"
+      0 managedReference command
+       0 SInt64 rid = 1033
+    0 ReferencedObject data
+     0 SInt64 rid = 1019
+     0 ReferencedManagedType type
+      1 string class = "CommandScriptLine"
+      1 string ns = "Naninovel"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 int lineIndex = 19
+      1 string lineHash = "70c0d6e3"
+      0 managedReference command
+       0 SInt64 rid = 1034
+    0 ReferencedObject data
+     0 SInt64 rid = 1020
+     0 ReferencedManagedType type
+      1 string class = "Spawn"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 2
+       0 int inlineIndex = 0
+      0 StringParameter Path
+       1 string value = "Blur"
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringListParameter Params
+       0 NullableString value
+        1 Array Array (3 items)
+         0 int size = 3
+         [0]
+          0 NullableString data
+           1 string value = "MainBackground"
+           1 UInt8 hasValue = 1
+         [1]
+          0 NullableString data
+           1 string value = "0.3"
+           1 UInt8 hasValue = 1
+         [2]
+          0 NullableString data
+           1 string value = "0.5"
+           1 UInt8 hasValue = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter ScenePosition
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Position
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Rotation
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Scale
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1021
+     0 ReferencedManagedType type
+      1 string class = "ModifyBackground"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 3
+       0 int inlineIndex = 0
+      0 StringParameter Id
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Appearance
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Pose
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Transition
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter TransitionParams
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter DissolveTexturePath
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter Visible
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Position
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Rotation
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Scale
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter TintColor
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter EasingTypeName
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Duration
+       0 float value = 1,5
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter ScenePosition
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 NamedStringParameter AppearanceAndTransition
+       0 NamedString value
+        0 NullableString name
+         1 string value = "view_day"
+         1 UInt8 hasValue = 1
+        0 NullableString value
+         1 string value = ""
+         1 UInt8 hasValue = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1022
+     0 ReferencedManagedType type
+      1 string class = "ModifyTextPrinter"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 5
+       0 int inlineIndex = 0
+      0 StringParameter Id
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Appearance
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Pose
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Transition
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter TransitionParams
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter DissolveTexturePath
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter Visible
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Position
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Rotation
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Scale
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter TintColor
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter EasingTypeName
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Duration
+       0 float value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter ScenePosition
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 NamedStringParameter IdAndAppearance
+       0 NamedString value
+        0 NullableString name
+         1 string value = "Dialogue"
+         1 UInt8 hasValue = 1
+        0 NullableString value
+         1 string value = ""
+         1 UInt8 hasValue = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter MakeDefault
+       1 UInt8 value = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter HideOther
+       1 UInt8 value = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1023
+     0 ReferencedManagedType type
+      1 string class = "PrintText"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 6
+       0 int inlineIndex = 0
+      0 StringParameter Text
+       1 string value = "(Everyone from the Justice Task Force are hard workers. Doesn't seem like I need to lend a hand at all)"
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter PrinterId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter AuthorId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter RevealSpeed
+       0 float value = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter ResetPrinter
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter DefaultPrinter
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter WaitForInput
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 IntegerParameter LineBreaks
+       0 int value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter ChangeVisibilityDuration
+       0 float value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter AutoVoiceId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1024
+     0 ReferencedManagedType type
+      1 string class = "PrintText"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 7
+       0 int inlineIndex = 0
+      0 StringParameter Text
+       1 string value = "(Someone does worry me... but well, I'll just stand straight here for now)"
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter PrinterId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter AuthorId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter RevealSpeed
+       0 float value = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter ResetPrinter
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter DefaultPrinter
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter WaitForInput
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 IntegerParameter LineBreaks
+       0 int value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter ChangeVisibilityDuration
+       0 float value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter AutoVoiceId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1025
+     0 ReferencedManagedType type
+      1 string class = "PrintText"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 8
+       0 int inlineIndex = 0
+      0 StringParameter Text
+       1 string value = "(And hence, the time idly passed by)"
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter PrinterId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter AuthorId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter RevealSpeed
+       0 float value = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter ResetPrinter
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter DefaultPrinter
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter WaitForInput
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 IntegerParameter LineBreaks
+       0 int value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter ChangeVisibilityDuration
+       0 float value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter AutoVoiceId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1026
+     0 ReferencedManagedType type
+      1 string class = "HidePrinter"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 11
+       0 int inlineIndex = 0
+      0 StringParameter PrinterId
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Duration
+       0 float value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1027
+     0 ReferencedManagedType type
+      1 string class = "ModifyCharacter"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 12
+       0 int inlineIndex = 0
+      0 StringParameter Id
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Appearance
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Pose
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Transition
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter TransitionParams
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter DissolveTexturePath
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter Visible
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Position
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Rotation
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Scale
+       0 NullableFloat value
+        1 Array Array (4 items)
+         0 int size = 4
+         [0]
+          0 NullableFloat data
+           0 float value = 2
+           1 UInt8 hasValue = 1
+         [1]
+          0 NullableFloat data
+           0 float value = 2
+           1 UInt8 hasValue = 1
+         [2]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 0
+         [3]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter TintColor
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter EasingTypeName
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Duration
+       0 float value = 2
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter ScenePosition
+       0 NullableFloat value
+        1 Array Array (3 items)
+         0 int size = 3
+         [0]
+          0 NullableFloat data
+           0 float value = -1
+           1 UInt8 hasValue = 1
+         [1]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 1
+         [2]
+          0 NullableFloat data
+           0 float value = -1
+           1 UInt8 hasValue = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 NamedStringParameter IdAndAppearance
+       0 NamedString value
+        0 NullableString name
+         1 string value = "blackout"
+         1 UInt8 hasValue = 1
+        0 NullableString value
+         1 string value = ""
+         1 UInt8 hasValue = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter LookDirection
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter AvatarTexturePath
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1028
+     0 ReferencedManagedType type
+      1 string class = "DestroyAllSpawned"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 13
+       0 int inlineIndex = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1029
+     0 ReferencedManagedType type
+      1 string class = "ModifyBackground"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 14
+       0 int inlineIndex = 0
+      0 StringParameter Id
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Appearance
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Pose
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter Transition
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter TransitionParams
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter DissolveTexturePath
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter Visible
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Position
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Rotation
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Scale
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter TintColor
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter EasingTypeName
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Duration
+       0 float value = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter ScenePosition
+       0 NullableFloat value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 NamedStringParameter AppearanceAndTransition
+       0 NamedString value
+        0 NullableString name
+         1 string value = "black"
+         1 UInt8 hasValue = 1
+        0 NullableString value
+         1 string value = ""
+         1 UInt8 hasValue = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1030
+     0 ReferencedManagedType type
+      1 string class = "ModifyCamera"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 15
+       0 int inlineIndex = 0
+      0 DecimalListParameter Offset
+       0 NullableFloat value
+        1 Array Array (2 items)
+         0 int size = 2
+         [0]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 1
+         [1]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Roll
+       0 float value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalListParameter Rotation
+       0 NullableFloat value
+        1 Array Array (3 items)
+         0 int size = 3
+         [0]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 1
+         [1]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 1
+         [2]
+          0 NullableFloat data
+           0 float value = 0
+           1 UInt8 hasValue = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Zoom
+       0 float value = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter Orthographic
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringListParameter ToggleTypeNames
+       0 NullableString value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 NamedBooleanListParameter SetTypeNames
+       0 NullableNamedBoolean value
+        1 Array Array (0 items)
+         0 int size = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter EasingTypeName
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter Duration
+       0 float value = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1031
+     0 ReferencedManagedType type
+      1 string class = "HideAllActors"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 16
+       0 int inlineIndex = 0
+      0 DecimalParameter Duration
+       0 float value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 BooleanParameter Remove
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1032
+     0 ReferencedManagedType type
+      1 string class = "StopSfx"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 17
+       0 int inlineIndex = 0
+      0 StringParameter SfxPath
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter FadeOutDuration
+       0 float value = 2
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1033
+     0 ReferencedManagedType type
+      1 string class = "StopBgm"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 1
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 18
+       0 int inlineIndex = 0
+      0 StringParameter BgmPath
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 DecimalParameter FadeOutDuration
+       0 float value = 2
+       1 UInt8 hasValue = 1
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+    0 ReferencedObject data
+     0 SInt64 rid = 1034
+     0 ReferencedManagedType type
+      1 string class = "Stop"
+      1 string ns = "Naninovel.Commands"
+      1 string asm = "Elringus.Naninovel.Runtime"
+     0 ReferencedObjectData data
+      0 BooleanParameter Wait
+       1 UInt8 value = 0
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 StringParameter ConditionalExpression
+       1 string value = ""
+       1 UInt8 hasValue = 0
+       0 DynamicValue dynamicValue
+        0 PlaybackSpot PlaybackSpot
+         1 string scriptName = ""
+         0 int lineIndex = 0
+         0 int inlineIndex = 0
+        1 string ValueText = ""
+        0 string Expressions
+         1 Array Array (0 items)
+          0 int size = 0
+      0 PlaybackSpot playbackSpot
+       1 string scriptName = "ep0"
+       0 int lineIndex = 19
+       0 int inlineIndex = 0
