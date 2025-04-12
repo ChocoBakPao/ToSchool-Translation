@@ -6726,7 +6726,7 @@
        0 int lineIndex = 48
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "A-alright... The truth is, a suspicious paper bag was discovered... found lying on the side of the road but,"
+       1 string value = "A-alright... <br>The truth is, a suspicious paper bag was discovered... found lying on the side of the road but,"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -7136,7 +7136,7 @@
        0 int lineIndex = 51
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "They are usually treated as a lost property but since the Senpais are in the middle of a secret operation, they might be related to each other..."
+       1 string value = "They are usually treated as a lost property but since the seniors are in the middle of a top-secret operation, they might be related to each other..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot

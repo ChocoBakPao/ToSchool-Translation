@@ -13059,7 +13059,7 @@
        0 int lineIndex = 26
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Sensei, thank you very much. <br>Even now, you're still here by my side... ehehe."
+       1 string value = "Sensei, thank you very much. <br>Even now, you're stll here by my side... ehehe."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -15188,7 +15188,7 @@
        0 int lineIndex = 43
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "If a problem arises, it would be our responsibility as security personnel."
+       1 string value = "If a problem arises, it would be our resposibility as security personnel."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -48357,7 +48357,7 @@
        0 int lineIndex = 349
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Until reinforcements arrive, we need to protect the school building entrance at all cost...!"
+       1 string value = "Until reinforements arrive, we need to protect the school building entrance at all cost...!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -48661,7 +48661,7 @@
        0 int lineIndex = 352
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Oohhh!!"
+       1 string value = "オオオ────！！"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -50756,7 +50756,7 @@
        0 int lineIndex = 372
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(The higher-ups became aware of this disturbance and deliberated that the unreasonable secrecy to be the cause. As such, they publicly announced the content of the top-secret mission)"
+       1 string value = "(The higher-ups became aware of this disturbance and deliberated that the unreasonable secrecy to be the cause. As such, they publicly annonced the content of the top-secret mission)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot

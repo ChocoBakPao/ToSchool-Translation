@@ -4991,7 +4991,7 @@
          0 int size = 1
          [0]
           0 NullableString data
-           1 string value = "Trinity Ground"
+           1 string value = "Trinity, School Ground"
            1 UInt8 hasValue = 1
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
@@ -8878,7 +8878,7 @@
        0 int lineIndex = 43
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Umm... I was just worrying a little you see... The JTF Senpais are currently absent so it made me uneasy, more or less ..."
+       1 string value = "Umm... I was just worrying a little you see... <br>The seniors are currently absent so it made me uneasy..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -9288,7 +9288,7 @@
        0 int lineIndex = 47
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "<size=24>Can we, the first-year students actually keep the peace ourselves... I don't feel confident we can properly cooperate with each other without our Senpais' directives...</size>"
+       1 string value = "Can we, the first-year students actually keep the peace ourselves...? <br>I don't feel confident we can properly cooperate with each other without our seniors' directives..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -12271,7 +12271,7 @@
        0 int lineIndex = 82
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "U-umm... I changed to my gym uniform like asked..."
+       1 string value = "U-umm... I changed to my gym uniform like you asked..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -20893,7 +20893,7 @@
        0 int lineIndex = 181
        0 int inlineIndex = 0
       0 StringParameter ChoiceSummary
-       1 string value = "Likewise, I apologize. My fault for saying to step off from our right foot."
+       1 string value = "Likewise, I apologize. It's my fault for saying to step off from our right foot."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -26062,7 +26062,7 @@
        0 int lineIndex = 257
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Which reminds me... When I fell just now, you caught me in your arms... <br>Surely because you did not want me to get hurt..."
+       1 string value = "Which reminds me... When I fell just now, you caught me in your arms... <br>Surely, you did it because you did not want me to get hurt..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -28111,7 +28111,7 @@
        0 int lineIndex = 279
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I-I... want to succeed three-legged racing together with you...?"
+       1 string value = "I-I...want to succeed three-legged racing together with you...!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
