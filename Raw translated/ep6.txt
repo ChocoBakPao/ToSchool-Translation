@@ -61,13 +61,13 @@
 そ、そうだ……。私たちは正義実現委員会なんだ！ = Y-you're right... We're the Justice Task Force!
 たとえ先輩方がいなくても、私たちはその誇りを失ったりしない……！ = Even if our seniors are absent, we'll never lose our pride...!
 総員、防弾シールドを構えて！ = All hands, have your bombproof shield at the ready!
-応援が来るまで、なんとしても校舎の入り口を死守するよ……！ = Until reinforements arrive, we need to protect the school building entrance at all cost...!
+応援が来るまで、なんとしても校舎の入り口を死守するよ……！ = Until reinforcements arrive, we need to protect the school building entrance at all cost...!
 オオオ────！！
 正義実現委員会部員の仲間たち = The fellow JTF members
 成長したね。 = They've grown up, huh?
 これならもう、なにがあっても大丈夫だ。 = In that case, they'll be fine no matter what happens.
 （暴徒化した生徒たちは、正義実現委員会の力によって無事、おとなしくなってくれた） = (The rampaging students peacefully calmed down thanks to the efforts of the JTF members)
-（騒ぎを知った上層部は、無理に隠したことが原因と考え、極秘任務の内容を公表することにしたそうだ） = (The higher-ups became aware of this disturbance and deliberated that the unreasonable secrecy was the cause. As such, they publicly annonced the content of the top-secret mission)
+（騒ぎを知った上層部は、無理に隠したことが原因と考え、極秘任務の内容を公表することにしたそうだ） = (The higher-ups became aware of this disturbance and deliberated that the unreasonable secrecy was the cause. As such, they publicly announced the content of the top-secret mission)
 （内容は、ティーパーティーにとって重要な商談相手を迎えること） = (The content is as follows, they were to welcome an esteemed business partner of the Tea Party)
 （ティーパーティーのために選りすぐった紅茶の葉を提供するために、秘密裏にトリニティを訪れたとのことだった） = (In order to deliver the finest black tea leaves, they need to visit Trinity in secret)
 （その茶葉は人気商品で、トリニティにだけ贔屓している噂が立たないよう、こうして極秘任務の扱いにしていたのだった） = (These leaves are such a popular item that in order for them to quell rumors about them favoring Trinity, it needed to become a top-secret mission)
@@ -76,7 +76,7 @@
 すごい活躍だったじゃない！ = That was an impressive feat!
 ……え？ = ...Eh?
 私たちを指揮する姿、カッコよかった……！ = You looked very cool when you led us...!
-ほんと、見違えた！<br>ううん、私たちがあんたのこと誤解してたんだと思う！ = True, I hardly recognized you! <br>Or rather, I think we simply misundenstood your character!
+ほんと、見違えた！<br>ううん、私たちがあんたのこと誤解してたんだと思う！ = True, I hardly recognized you! <br>Or rather, I think we simply misunderstood your character!
 今まで、きついことばかり言ってごめん…… = I apologize for all the harsh thing I've said to you until now.
 許して欲しいなんて言える義理じゃないけど……本当にごめんなさい…… = I'm not in a position to ask for your forgiveness but... I still wanna say I'm truly sorry...
 え、えっと……私のほうこそ、ごめんなさい。 = U-umm... I would also like to apologize.
