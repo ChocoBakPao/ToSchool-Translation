@@ -3487,7 +3487,7 @@
          0 int size = 1
          [0]
           0 NullableString data
-           1 string value = "Trinity, Hallway inside the School Building"
+           1 string value = "Trinity, Corridor inside the School Building"
            1 UInt8 hasValue = 1
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
@@ -7870,7 +7870,7 @@
        0 int lineIndex = 45
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I borrowed this book from Mashiro-san... and I got engrossed reading it..."
+       1 string value = "I borred this book from Mashiro-san... and I got engrossed reading it..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -10492,7 +10492,7 @@
        0 int lineIndex = 65
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "The president Tsurugi-senpai, the vice-president Hasumi-senpai, Ichika-senpai who always look out for us kouhais, I respect all of them!"
+       1 string value = "The president Tsurugi-senpai, the vice-president Hasumi-senpai, Ichika-senpai who always look out for us juniors, I respect all of them!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -12859,7 +12859,7 @@
        0 int lineIndex = 84
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Which is why, I... I want to be like them. <br>And along these lines, I'd like change to who I am right now."
+       1 string value = "Which is why, I... I want to be like them. <br>And along these lines, I'd like change who I am right now."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -13448,7 +13448,7 @@
        0 int lineIndex = 88
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "But... As for how do I go about changing myself, I just don't know... At the very least, I can do imitations of my Senpais."
+       1 string value = "But... As for how do I go about changing myself, I just don't know... At the very least, I can do imitations of my seniors."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -15752,7 +15752,7 @@
        0 int lineIndex = 115
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "You look out of ssu-orts...are you perhaps worried about ssu-omething?"
+       1 string value = "You look down in the dumps—... Are you worried about something, perhaps—?"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -16341,7 +16341,7 @@
        0 int lineIndex = 119
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "It's better if you don't handle all of it ssu-olo~ <br>If you want someone to listen, I'm always available here for ssu-upport, okay?"
+       1 string value = "It's not good to bottle it all up alone in excess— <br>If you want someone to listen, I'm ready when you are, always—."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -19627,7 +19627,7 @@
        0 int lineIndex = 153
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "The kitchen car is not in the wrong. The problem lies in the student's ettiquete. Therefore, if you encounter such an incident during your patrol, please give them a stern warning."
+       1 string value = "The kitchen car is not in the wrong. The problem lies in the student's ettiquete. <br>Therefore, if you encounter such an incident during your patrol, please give them a stern warning."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot

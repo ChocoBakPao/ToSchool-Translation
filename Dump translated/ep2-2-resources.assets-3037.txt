@@ -7327,7 +7327,7 @@
        0 int lineIndex = 48
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Y-you only say that because you're kind... You told me before that I was kind, but you're definitely the one who is kind."
+       1 string value = "Y-you only say that because you're kind... <br>You told me before that I was kind, but you're definitely the one who is kind."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot

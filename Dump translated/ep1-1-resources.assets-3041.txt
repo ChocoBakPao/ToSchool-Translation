@@ -4915,7 +4915,7 @@
          0 int size = 1
          [0]
           0 NullableString data
-           1 string value = "Trinity, Shopping District Plaza"
+           1 string value = "Trinity, Shopping Plaza"
            1 UInt8 hasValue = 1
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
@@ -10371,7 +10371,7 @@
        0 int lineIndex = 60
        0 int inlineIndex = 0
       0 StringParameter ChoiceSummary
-       1 string value = "You've been staring at the Kitchen Car for some time now."
+       1 string value = "You've been staring at the kitchen car for some time now."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -11283,7 +11283,7 @@
        0 int lineIndex = 67
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Ah, Ye-, Yes... you saw right through me Sensei."
+       1 string value = "Ah, Ye-, Yes... you saw right through me, Sensei."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -11872,7 +11872,7 @@
        0 int lineIndex = 73
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "They're selling such delicious looking treats and then... <br>I was holding back from buying... is perhaps why I looked dejected."
+       1 string value = "They're selling such delicious looking sweets and then... <br>I was holding back from buying... is perhaps why I looked dejected."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -13467,7 +13467,7 @@
        0 int lineIndex = 90
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I can't leave the Vice President, Hasumi-senpai, and go off and eat sweets on my own!"
+       1 string value = "I can't leave the Vice President, Hasumi-senpai, and go off to eat sweets on my own!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -14074,7 +14074,7 @@
        0 int lineIndex = 101
        0 int inlineIndex = 0
       0 StringParameter ChoiceSummary
-       1 string value = "Is it really truly that bad?"
+       1 string value = "Is it truly that bad?"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -14986,7 +14986,7 @@
        0 int lineIndex = 108
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Eh...? Wh-what does that mean?"
+       1 string value = "Eh...? W-what does that mean?"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -16849,7 +16849,7 @@
        0 int lineIndex = 125
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "The kitchen car's treats... <br>D-did you buy it for me?"
+       1 string value = "The kitchen car's sweets... <br>D-did you buy it for me?"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -18034,7 +18034,7 @@
        0 int lineIndex = 137
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Th-that's not true. <br>Like I said earlier, I won't eat it for Hasumi-senpai's sake!"
+       1 string value = "T-that's not true. <br>Like I said earlier, I won't eat it for Hasumi-senpai's sake!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -24044,7 +24044,7 @@
        0 int lineIndex = 211
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "*Lick*.... mm... exquisite taste!"
+       1 string value = "*Lick*.... mm... very tasty!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -31781,7 +31781,7 @@
        0 int lineIndex = 323
        0 int inlineIndex = 0
       0 StringParameter ChoiceSummary
-       1 string value = "Judging from her gleeful demeanor, all is well I guess."
+       1 string value = "Judging from her gleeful demeanor, all is well, I guess."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot

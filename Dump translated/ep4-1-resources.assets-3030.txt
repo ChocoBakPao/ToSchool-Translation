@@ -4972,7 +4972,7 @@
          0 int size = 1
          [0]
           0 NullableString data
-           1 string value = "Trinity, School Pool"
+           1 string value = "Trinity, Swimming Pool"
            1 UInt8 hasValue = 1
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
@@ -9619,7 +9619,7 @@
        0 int lineIndex = 48
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I came to the pool... because I'm bad at swimming. <br>I wanted to practice  should the necessity arise..."
+       1 string value = "I came to the pool... because I'm bad at swimming. <br>I wanted to practice swimming in case of an emergency..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -10208,7 +10208,7 @@
        0 int lineIndex = 52
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "However... No matter how hard I practice, I don't improve at all... might as well just give up altogether."
+       1 string value = "However... No matter how hard I practice, I'm not improving at all... I might as well just give up altogether."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -12281,7 +12281,7 @@
        0 int lineIndex = 75
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "Is... that true?"
+       1 string value = "Is... that so?"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -15827,7 +15827,7 @@
        0 int lineIndex = 103
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(B-but..., since I'm gonna practice together with Sensei...!)"
+       1 string value = "(B-but... I'm gonna practice together with Sensei...!)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -23267,7 +23267,7 @@
        0 int lineIndex = 179
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I meant to go for a flutter kick but... before I knew it, my feet touches the floor."
+       1 string value = "I meant to go for a flutter kick...but before I knew it, my feet touches the floor."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -23677,7 +23677,7 @@
        0 int lineIndex = 182
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I'm using the kickboard so I should be more buoyant so why..."
+       1 string value = "I should be more buoyant since I'm using a kickboard so why...?"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -26110,7 +26110,7 @@
        0 int lineIndex = 208
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "I'm sure by legs are just lacking in power... next time, I'll do it harder...!"
+       1 string value = "I'm sure my legs are just lacking in power... Next time, I'll do it harder...!"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
@@ -32293,7 +32293,7 @@
        0 int lineIndex = 269
        0 int inlineIndex = 0
       0 StringParameter ChoiceSummary
-       1 string value = "Together with by voice now. One, two, one, two..."
+       1 string value = "Together with my voice now. One, two, one, two..."
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot

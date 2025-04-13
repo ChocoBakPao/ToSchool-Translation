@@ -1093,7 +1093,7 @@
        0 int lineIndex = 7
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "(Someone does worry me... but well, I'll just stand straight here for now)"
+       1 string value = "(Someone does worry me... but well, I'll just stand up straight here like a pillar for now)"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
