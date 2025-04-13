@@ -4304,7 +4304,7 @@
        0 int lineIndex = 17
        0 int inlineIndex = 0
       0 StringParameter Text
-       1 string value = "What should I do ...... might be dangerous and what should I do ......?"
+       1 string value = "どうしよう……危険かもしれないし、どうすれば……？"
        1 UInt8 hasValue = 1
        0 DynamicValue dynamicValue
         0 PlaybackSpot PlaybackSpot
