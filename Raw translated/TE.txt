@@ -7,14 +7,14 @@
 この茶葉は、あの日の極秘任務で提供されたものです。先生のためにご用意したんですよ。 = I used the tea leaves that were distributed from the top-secret mission the other day. I prepared it just for you. 
 ま、待って。 = W-wait.
 その格好は……？ = What's that outfit...?
-茶葉と同じく、この日のために用意しました。 = Just like the tea laves, I also prepared this for this day.
+茶葉と同じく、この日のために用意しました。 = Just like the tea leaves, I also prepared this for this day.
 先生に喜んでもらうにはどうすればいいのか、がんばってリサーチしたんです。 = I eagerly conducted research on what can I do to make you happy.
 結果、この格好が先生の好みだってわかりました。 = And the result, this is the outfit that would suit your fancy.
 待って！？ = Wait!?
 誰がそんなこと言ったの！？ = Who told you that!?
 えっと……いろんな方が言っていましたので、特定するのは難しいです。 = Umm...it came from a variety of people so singling them out is difficult.
 ただ、そういう噂が流れているのは事実のようです。 = However, it seems that kind of rumor did spread.
-誰が噂を流したのかは不明みたいですけど…… = Though it doesnt seem clear on who started the rumor.
+誰が噂を流したのかは不明みたいですけど…… = Though it doesn't seem clear on who started the rumor.
 ……なるほど。 = ...I see.
 そんな噂を流した誰かは、あとで私が探し出して注意しよう。 = Later, I'll find the person who spread that rumor and give them a warning.
 あ、あの……もしかしてこの格好、お気に召しませんでしたか……？ = U-umm... Do you find this outfit unappealing...?
@@ -26,13 +26,13 @@
 ううん、それは違う。 = No, that's not right.
 こうしてお世話されることは、ウソでもなんでもなく、嬉しいよ。 = Being attended by you is, honest to God, making me happy.
 あ……先生……えへへ。 = Ah...Sensei...ehehe.
-紅茶を入れたあとは、肩を揉んであげます。 After making tea, I'll massage your shoulders.
+紅茶を入れたあとは、肩を揉んであげます。 = After making tea, I'll massage your shoulders.
 お昼寝をしたくなったら、膝枕をしてあげます。 = If you feel like sleeping, I'll give you a lap pillow.
 そのときに、よければ耳かきもしてあげたいです。 = And during that time, I would also like to clean your ears if you'd like.
 私、先生のお役に立ちたいです。 = I want to make myself useful to you.
 先生が喜んでくれると、私も嬉しくなって…… = If it makes you pleased, it also makes me pleased...
 先生が幸せになってくれると、私も幸せになっちゃいます。 = If it makes you happy, it also makes me happy in return.
-だから、私はずっと、先生のそばにいたいって思います。 = Which is why I would like to be by your side all the time.
+だから、私はずっと、先生のそばにいたいって思います。 = Which is why, I would like to be by your side all the time.
 でも、先生は私以外の生徒の助けにもなってるから……私が独り占めすることはできません。 = I however can't monopolize you for myself...since you also help other students.
 それでも……先生。<br>今日だけじゃなくて、またいつか、シャーレの当番を私にお願いしてください。 = But even then... Sensei. <br>Not only for today but please, let me be Schale's on duty sometime.
 この日を、エイプリルフールのウソだけで終わらせたくないんです。 = I don't want this day to end like an April Fool's lie.
