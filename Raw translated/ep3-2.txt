@@ -1,5 +1,5 @@
 トリニティ・グラウンド = Trinity, School Ground
-えっと……先生？ 組立体操……ですか？ = Umm... Sensei? Group gymnastics?
+えっと……先生？ 組立体操……ですか？ = Umm...Sensei? Group gymnastics?
 うん。一緒にやってみよう。 = Yup. Let's do it together.
 これも連携を取るための練習だよ。 = This is also a way to practice coordination.
 やったことはありませんので…… = This is my first time doing it so...
@@ -8,11 +8,11 @@
 じゃあまずは……。 = Then, first of all...
 まずは……しゃがんでる先生の肩に座ればいいんですね。 = First... I need to sit on your shoulder while you crouch, right?
 きゃっ…… = Kya...
-先生、立ち上がって……これって、肩車？ = Sensei, why did you stand up... is this a shoulder ride?
+先生、立ち上がって……これって、肩車？ = Sensei, why did you stand up... Is this a shoulder ride?
 わあ……背が高くなったみたいです。<br>視界が遠くまで広がってます！ = Wow... It feels like I became taller. <br>I can see far away now!
 で、でも……私、重くないですか？ 大丈夫ですか？ = B-but... Am I not heavy? Are you alright?
 ぜんぜんへっちゃら……？ = This is no sweat...?
-えへへ……力持ちなんですね。 = Ehehe... a tough man I see.
+えへへ……力持ちなんですね。 = Ehehe... A tough man I see.
 （運動不足のせいで、本当はちょっと辛いけど） = (It is actually kinda rough though due to insufficient exercise)
 （彼女が喜んでるし、私もがんばろう） = (It made her happy so I need to brace myself)
 次は……中腰になってる先生の背中に、立てばいいんですか？ = Next is... I need to stand on your back while you're in a half bent posture?
@@ -29,14 +29,14 @@
 二人三脚のときもそうでしたけど……転んでばかりの私のせいで、先生に迷惑をかけてるだけな気がします…… = Similar to the three-legged race, I only ever cause trouble for you since I always fall...
 連携を取るのに一番大切なのはね。 = The most important part in coordination, you know.
 迷惑をかけてもいいと思えるほど、相手を信頼することだよ。 = Is to trust that it's alright to cause trouble to your partner.
-え……？ 信頼し合うのが大切というのは、もう聞いてますけど……。<br>迷惑をかけてもいいだなんて、そんなの…… = Eh...? I already know that trusting each other is important but... <br>to actually welcome and allow mistakes... 
+え……？ 信頼し合うのが大切というのは、もう聞いてますけど……。<br>迷惑をかけてもいいだなんて、そんなの…… = Eh...? I already know that trusting each other is important but...<br>To actually welcome and allow mistakes... 
 うわぁぁーん！ = Uwaaa!
 な、泣き声……？<br>子供が向こうで泣いてます！ = Someone's crying...? <br>A child is crying over there!
 ど、どうしたの？ なにかあったの？ = I-is something the matter? Did something happen?
 風船がー！ うわぁぁーん！ = The balloon! Uwaaa!
-あっ……木の枝に風船が……！ = Ah... the baloon is stuck on the tree's branch...!
+あっ……木の枝に風船が……！ = Ah... The baloon is stuck on the tree's branch...!
 この子が間違って飛ばしてしまったんでしょうか……？手を伸ばしても届きそうにないです…… = Did the child make a mistake and let the balloon float...? Doesn't seem my upstretched hands can reach them...
-この高さだと、肩車でも無理そうですし……どうしたら…… = From that height, a shoulder ride is still insufficient... then how...
+この高さだと、肩車でも無理そうですし……どうしたら…… = From that height, a shoulder ride is still insufficient...then how...
 肩車より高さがある組立体操をしよう。 = Then we need only do a position that has a higher reach than a shoulder ride.
 私の肩に立てば、手が届くはずだよ。 = If you stand on my shoulder, your hands can reach them.
 ええ……！？ さっき背中に立つのも難しかったのに、肩に立つんですか！？ = Eh...!? I already had a hard time standing on your back just now and you tell me to stand on your shoulders!?
@@ -48,7 +48,7 @@
 わかりました、先生……。<br>私、先生を信じます！ = Alright, Sensei... <br>I trust you!
 （な、なんとか……先生の肩の上に、立てたけど……） = (Somehow... I was able to stand on top of his shoulder but...)
 （足が、震えて……今にもバランスをくずしそう……） = (My feet are shaking... My balance won't hold for long...)
-（地面に落ちたらって思うと……怖くてたまらない……） = (Thinking what would happen if I fall... makes me deathly scared...)
+（地面に落ちたらって思うと……怖くてたまらない……） = (Thinking what would happen if I fall...makes me deathly scared...)
 （でも……先生がいてくれるから……大丈夫だって思える……！） = (But... Since Sensei is here with me... I can do this...!)
 あ……やった…… = Ah... I did it....
 風船……取ることができました……！ = I was able to retrieve the balloon...!

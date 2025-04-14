@@ -1,6 +1,6 @@
 先生 = Sensei
 あの日、突然いなくなって……<br>私、とってもびっくりしました = That day, you suddenly disappeared...<br>It was very surprising for me
-驚いて、悲しくなって、涙もこぼれ<br>ましたけど…… = I was shocked, heartbroken, and teared up<br>however...
+驚いて、悲しくなって、涙もこぼれ<br>ましたけど…… = I was shocked, heartbroken, and teary<br>however...
 でもきっと先生は、正しいと思った<br>からそうしたんですよね = You thought that was for the best<br>isn't that right?
 だから、そのことで先生を責めるつ<br>もりはありません = So I won't blame you<br>for that
 ただ……私、こんな噂を耳にしたん<br>です = It's just that...I, heard of a certain<br>rumor

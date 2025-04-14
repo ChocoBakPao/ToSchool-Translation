@@ -1,6 +1,6 @@
 トリニティ・海水浴場 = Trinity, Beach 
 <i>ザアア……</i> = <i>*whoosh*</i>
-先生、ありがとうございます。<br>プールだけじゃなくて、海にもつき合ってもらっちゃって。 = Sensei, thank you very much. <br>Not only did you join me in the pool but you also came with me to the sea.
+先生、ありがとうございます。<br>プールだけじゃなくて、海にもつき合ってもらっちゃって。 = Sensei, thank you very much. <br>Not only did you join me in the pool, but you also came with me to the sea.
 治安維持のお仕事は、海で泳ぐことになる場合もありますから、ここでも泳ぎの練習をしたかったんです。 = My job at JTF sometimes require me to swim at sea so I'd like to practice swimming here.
 うん。私も最後までつき合うよ。 = Okay. I'll be with you until the end.
 プールと違って波があるから、気をつけて練習しよう。 = Unlike pools, there are waves here, so be careful when you practice.
@@ -8,7 +8,7 @@
 あっ、でも、ひとりは嫌です……。<br>私の手、引いててくれますか……？ = Ah, but I don't like to do it alone... <br>Can you pull me by the hand...?
 もちろん。 = Of course.
 そばについてるからね。 = I'm right here with you.
-先生……ありがとうございます。えへへ…… = Thank you very much... Sensei. Ehehe...
+先生……ありがとうございます。えへへ…… = Thank you very much...Sensei. Ehehe...
 それじゃあ、お願いします……！ = Well then, would you please...!
 あ、まずは準備体操でした。<br>先生から教わったことは忘れてません！ = Ah, we should start with warm-ups. <br>I won't forget what you taught me!
 <i>バシャ、バシャ、バシャ、バシャ……</i> = <i>*splash* *splash* *splash* *splash*</i>
@@ -21,9 +21,9 @@
 どこにもいかないで欲しいです…… = Please don't leave me alone.
 今は一緒にいるつもりだよ。 = I intend to stay here together with you.
 だけどね。いつかは、ひとりでがんばらないといけないよ。 = However. You need to be able to do this alone someday.
-えっ……？<br>そ、それって……どういう意味ですか……？ = Eh...? W-what... what does that mean...?
+えっ……？<br>そ、それって……どういう意味ですか……？ = Eh...? W-what... What does that mean...?
 <i>ザアアア……！</i> = <i>*whoosh*</i>
-（……あれ？ この音……バタ足の音じゃない？） = (...Huh? This sound... does not sound like a flutter kick?)
+（……あれ？ この音……バタ足の音じゃない？） = (...Huh? This sound...does not sound like my flutter kick?)
 高波だ……！ = It's a high wave...!
 私につかまって！ = Grab hold of me!
 えっ、えっ？ = Eh, eh?
@@ -37,15 +37,15 @@
 （波のせいで、私は溺れてしまって……だけど先生が、助けてくれたこと……） = (I drowned due to that wave...but thanks to Sensei, I got saved...)
 先生……ありがとうございます…… = Sensei...thank you very much...
 （……あれ？ ちょっと待って） = (...Huh? Wait a minute)
-（溺れた私を助けてくれたってことは……救命処置をしたってこと……？） = (Since he helped me when I drowned, does that mean.... he performed CPR....?)
+（溺れた私を助けてくれたってことは……救命処置をしたってこと……？） = (Since he helped me when I drowned, does that mean....he performed CPR....?)
 （人工呼吸とか……心臓マッサージとか……？） = (Does that mean, artificial respiration...heart massage...?)
 （ま、まさか私、先生にあんなことやこんなこと……！？） = (Did I just do this and that with Sensei...!?)
 ……大丈夫？ = ...Are you alright?
-顔が赤いけど……まさか熱があるんじゃ？ = Your face is red... did you also develop fever?
+顔が赤いけど……まさか熱があるんじゃ？ = Your face is red... Did you also develop fever?
 （せ、先生が私の額に手を当てて……！？） = (S-Sensei is touching my forehead...!?)
 （しかも私を抱っこして連れていこうとしてる……！？） = (On top of hugging and taking me away somewhere...!?)
 せせせせせ先生……！？ だだだだだ大丈夫ですから……！？ = S-S-S-S-S-Sensei...!? I-I-I-I-I-I'm perfectly fine...!?
 ここここここれ以上はもう……！？ = M-M-M-M-M-More than this would make me...!?
-……うーん = ...hmm
+……うーん = ...uuu
 <i>パタリ……</i> = <i>*drops dead*</i>
 （なぜかまた気を失ってしまった彼女に、再び救命処置をすることになった） = (For some reason, she lost consciousness once more so I performed another round of CPR)

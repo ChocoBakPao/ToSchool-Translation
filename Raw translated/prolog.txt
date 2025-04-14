@@ -13,11 +13,11 @@
 私たちの力だけでトリニティの治安を維持してみせますので、ご安心を！ = Even with our abilities alone, we can maintain Trinity's public order, so worry no more!
 そ、そっか。 = I, I see.
 みんな、しっかりしてて偉いね。 = Everyone is an admirable hardworker, huh?
-はい！ １年生だろうと正義実現委員会の一員ですので！ = That's right! Even though we're only first-years, we're still members of the JTF!
+はい！ １年生だろうと正義実現委員会の一員ですので！ = That's right! Even though we're only first-years, we're still members of the Justice Task Force!
 先輩方の穴はしっかり埋めてみせます！ = We will fill in the gaps our seniors left behind!
 それでは先生！ 私たちは持ち場に戻ります！ = We'll take our leave now, Sensei! We'll go back to our assigned posts!
 先生はやることがなくてお暇なら、シャーレに帰ってもらって結構です！ = If you have nothing to do and have a lot of time on your hands, feel free to return to Schale!
-精神的支柱ってなんだっけ……。 = What does being a pillar of emotional support mean again?
+精神的支柱ってなんだっけ……。 = What does being a pillar of emotional support mean, again?
 頼もしいなぁ……。 = They're reliable, huh.
 ………… = ...
 ……あれ？ = Huh?
@@ -29,7 +29,7 @@
 特に今は、先輩方がいないから……余計に邪魔できないっていうか…… = Especially now since our seniors are absent... I don't want to make it hard for them any further...
 そんなふうに考えることはないよ。 = You don't have to think that way.
 優しい子なのは知っているからね。 = Because I know you're a kind girl.
-えっ……優しい……？ な、なんで……？ = Eh... kind...? W-Why...?
+えっ……優しい……？ な、なんで……？ = Eh...kind...? W-Why...?
 自分よりも仲間のことを思いやっているからだよ。 = You think of others rather than your own well-being.
 優しくなければ、そんなことはできないよ。 = You can't do that if you're not kind.
 っ……！ = ...!
@@ -49,7 +49,7 @@
 そうだよ。 = That's right.
 約束してくれるかな？ = Can you promise me that?
 は、はい……よくわかりませんけど…… = O-of couse...I don't really understand though...
-あ……そろそろ、パトロールの時間です。<br>お仕事に向かわないと…… = Ah...it's about time for me to go back patrolling.<br>I need to go to work...
+あ……そろそろ、パトロールの時間です。<br>お仕事に向かわないと…… = Ah... It's about time for me to go back patrolling.<br>I need to go to work...
 私なんかがやっても、意味ないと思いますけど…… = But if someone like me were to do it, it'd be pointless anyway...
 そんなことないよ。 = That's not true.
 応援してるからね。 = I'll cheer you on, okay?
